@@ -1,0 +1,45 @@
+{
+  "decks": [
+    {
+      "name": "Making Change",
+      "description": "Making Changes",
+      "id": 3
+    },
+    {
+      "name": "New Name",
+      "description": "Updating variables first try?",
+      "id": 4
+    },
+    {
+      "name": "This is my new deck",
+      "description": "I want to see this at home",
+      "id": 5
+    }
+  ],
+  "cards": [
+    {
+      "front": "Let's give it a sho",
+      "back": "come on MONEY",
+      "deckId": 3,
+      "id": 4
+    },
+    {
+      "front": "let's do it",
+      "back": "It's Working!",
+      "deckId": 3,
+      "id": 5
+    },
+    {
+      "front": "Adding Another Card",
+      "back": "Another Card",
+      "deckId": 3,
+      "id": 6
+    },
+    {
+      "front": "New Card",
+      "back": "New Card Added Here",
+      "deckId": 3,
+      "id": 7
+    }
+  ]
+}
