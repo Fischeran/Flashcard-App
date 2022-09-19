@@ -22,4 +22,5 @@ The Study screen allows the user to flip through there current flashcards in the
 
 ## Technology
 
-### Built With: React and React Router 
+### Built With: 
+ - React and React Router 
